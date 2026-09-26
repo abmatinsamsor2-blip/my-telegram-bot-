@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes
 from telegram.error import TelegramError
 
-BOT_TOKEN = "توکن_ربات_را_اینجا_بگذار"
+BOT_TOKEN = "8904187727:AAFo39qk4rNAeZk6VCUrO9Ucxcnw24Tzx8o"
 
 CHANNEL_USERNAME = "@My_Life_20_26"
 CHANNEL_LINK = "https://t.me/My_Life_20_26"
